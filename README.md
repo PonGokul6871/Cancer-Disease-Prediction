@@ -1,1 +1,2 @@
-Cancer Disease Prediction
+**Cancer Disease Prediction**
+Cancer remains a significant global health challenge, with diverse manifestations and complex underlying factors. In this study, we present an analysis of a comprehensive cancer disease dataset to gain insights into the trends, patterns, and potential factors associated with various cancer types.
